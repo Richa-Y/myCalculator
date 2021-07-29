@@ -1,0 +1,54 @@
+.cal {
+  background-color: black;
+  color: white;
+  height: 70px;
+  border-radius: 20px;
+}
+h1 {
+  font-weight: bold;
+}
+.container {
+  width: 45%;
+  height: 600px;
+  border: 1px solid grey;
+  background-color: grey;
+  border-radius: 20px;
+}
+
+#display {
+  width: auto;
+  height: 70px;
+  color: black;
+  font-size: 30px;
+  background-color: mintcream;
+}
+#display2 {
+  width: auto;
+  height: 50px;
+
+  justify-content: end;
+  background-color: burlywood;
+}
+
+.col-md-6 {
+  height: 60px;
+  border: 1px solid grey;
+  background-color: darkgrey;
+  margin: 2px;
+}
+
+.col {
+  height: 60px;
+  border: 1px solid grey;
+  background-color: darkgrey;
+  margin: 2px;
+  font-size: 25px;
+}
+.my {
+  background-color: maroon;
+  color: white;
+}
+.col:hover {
+  background-color: darkorange;
+  cursor: pointer;
+}
